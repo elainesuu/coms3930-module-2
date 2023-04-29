@@ -4,9 +4,6 @@
 
 ![demonstration_AdobeExpress](https://user-images.githubusercontent.com/83284749/235323359-2ce55934-bbd9-469e-a548-467880119154.gif)
 
-
-<br />
-
 This project uses Arduino (C++) and Processing (Java) Code , along with an ESP32 and joystick to simulate a pokéball moving across the screen. By sending signals from the ESP32, connected to the joystick with wires, to the Processing code, the user is able to control a pokéball within a green screen. Whenever the user presses on the button on the joystick, a pokémon will appear with the message: "A wild ___ has appeared!!"
 
 <br />
