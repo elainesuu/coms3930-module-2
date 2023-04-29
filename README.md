@@ -2,7 +2,7 @@
 
 ### A wild pokemon has appeared!
 
-https://user-images.githubusercontent.com/83284749/235322678-9f8e97f6-047d-45e9-8aa1-0f66536d03bd.mov
+https://user-images.githubusercontent.com/83284749/235323337-127a9035-ca81-4cb2-84ee-ec7fd9ed0c86.gif
 
 <br />
 
