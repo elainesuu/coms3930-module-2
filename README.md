@@ -8,7 +8,7 @@ This project uses Arduino (C++) and Processing (Java) Code , along with an ESP32
 
 <br />
 
-To see more of the artistic decisions behind this project, check out my this [medium article](https://elaine-su.squarespace.com/)!
+To see more of the artistic decisions behind this project, check out my this [medium article](https://medium.com/@elaine.su/coms-3930-creative-embedded-systems-module-2-blog-21320a47a130)!
 
 <br />
 
